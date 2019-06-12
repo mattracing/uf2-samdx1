@@ -4,11 +4,11 @@
 #define VENDOR_NAME "ELTECH S.R.L."
 #define PRODUCT_NAME "Eltech Nonthue M0"
 #define VOLUME_LABEL "NONTHUEBOOT"
-#define INDEX_URL "http://www.eltech.com.ar/productos/onthue"
+#define INDEX_URL "http://www.eltech.com.ar/productos/nonthue"
 #define BOARD_ID "SAMD21G18A-Nonthue-M0-v3.3"
 
 #define USB_VID 0x04D8
-#define USB_PID 0xE17E
+#define USB_PID 0xED36
 
 #define LED_PIN PIN_PA17
 
