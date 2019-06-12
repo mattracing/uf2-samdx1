@@ -1,14 +1,14 @@
 #ifndef BOARD_CONFIG_H
 #define BOARD_CONFIG_H
 
-#define VENDOR_NAME "Eltech"
-#define PRODUCT_NAME "Nonthue M0"
+#define VENDOR_NAME "ELTECH S.R.L."
+#define PRODUCT_NAME "Eltech Nonthue M0"
 #define VOLUME_LABEL "NONTHUEBOOT"
-#define INDEX_URL "http://www.eltech.com.ar/Nonthue"
-#define BOARD_ID "SAMD21G18A-Nonthue-M0-v0"
+#define INDEX_URL "http://www.eltech.com.ar/productos/onthue"
+#define BOARD_ID "SAMD21G18A-Nonthue-M0-v3.3"
 
-#define USB_VID 0x239A
-#define USB_PID 0x001B
+#define USB_VID 0x04D8
+#define USB_PID 0xE17E
 
 #define LED_PIN PIN_PA17
 
